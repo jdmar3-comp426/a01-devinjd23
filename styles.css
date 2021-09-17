@@ -8,8 +8,8 @@ body {
 }
 
 h1 {
-    margin-top: 5px;
     font-family: fantasy;
+    margin: 15px;
 }
 
 a {
@@ -36,4 +36,26 @@ header {
     font-weight: normal;
     text-decoration: underline;
     color: #a000a0;
+}
+
+#homeImage {
+    border: 2px solid #000;
+}
+
+.characterImage {
+    border: 2px solid #000;
+    height: 200px;
+    width: 200px;
+}
+
+#characterList {
+    list-style-type: none;
+}
+
+.individual {
+    margin-bottom: 30px;
+}
+
+#characterSeperator {
+    width: 50%;
 }
