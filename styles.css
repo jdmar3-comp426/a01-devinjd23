@@ -31,3 +31,9 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+
+.citationLinks {
+    font-weight: normal;
+    text-decoration: underline;
+    color: #800080;
+}
